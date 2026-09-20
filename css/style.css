@@ -1,1 +1,40 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+header {
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    
+}
+
+.intro{
+    background-color: rgb(235, 214, 230);
+}
+
+.cards-container{
+    background-color: rgb(212, 182, 205);;
+}
+
+article{
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+@media (min-width:768px) {
+
+    article{
+        display: inline-block;
+        width: 30%;
+        margin-right: 3%;
+        vertical-align: top;
+    }
+    
+}
+
+footer{
+    margin-top: 24px;
+}
