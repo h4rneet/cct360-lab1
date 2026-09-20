@@ -8,17 +8,25 @@ header {
     padding: 20px;
     text-align: center;
     width: 100%;
+    color:rgb(78, 42, 52)
     
 }
 
 .intro{
     background-color: rgb(235, 214, 230);
+    padding: 20px 20px;
+    margin: 20px;
 }
 
 .cards-container{
-    background-color: rgb(212, 182, 205);;
+    background-color: rgb(212, 182, 205);
+    padding: 20px 20px;
+    margin: 20px;
 }
 
+.h3style{
+    color:rgb(78, 42, 52)
+}
 article{
     width: 100%;
     margin-bottom: 16px;
