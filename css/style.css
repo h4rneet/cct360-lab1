@@ -30,6 +30,7 @@ header {
 article{
     width: 100%;
     margin-bottom: 16px;
+    text-align: center;
 }
 
 @media (min-width:768px) {
@@ -45,4 +46,5 @@ article{
 
 footer{
     margin-top: 24px;
+    
 }
